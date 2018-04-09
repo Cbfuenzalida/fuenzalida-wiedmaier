@@ -102,11 +102,11 @@ video{
 }
 .primera h4{padding: 2% 40% 1% 2%;}
 
-.primera h5{padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;}
+.primera h5{padding: 1% 40% 2% 2%; margin-bottom:5em; letter-spacing:0.1em;}
 
 .primera p{padding: 2% 40% 2% 2%;}
 
-.primera address{padding: 0% 0% 0% 0%; font-size:0.9em; font-style:normal;}
+.primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
 
 .segunda{
 	min-height:300px;
